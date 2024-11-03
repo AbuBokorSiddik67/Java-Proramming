@@ -84,6 +84,5 @@ public class Operator_java {
 //        System.out.println(~a);
 
 
-
     }
 }
